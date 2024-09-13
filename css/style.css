@@ -1,0 +1,19 @@
+th, td{
+
+    border: 2px dotted;
+    padding: 30px;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+}
+.empresa{
+    background-color: hsl(36, 2%, 42%);
+}
+.avançar{
+background-color: rgb(225, 10, 10);
+}
+.starter{
+    background-color: rgb(4, 239, 0);
+
+}
